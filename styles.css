@@ -1,0 +1,43 @@
+h1 { font-family: 'Chilanka', cursive; 
+    text-align:center;
+
+}
+body {
+    text-align:center;
+    background: url("https://thumbs.gfycat.com/EcstaticSinfulAlabamamapturtle.webp");
+    font-family: 'Chilanka', cursive; 
+    text-align:center;
+}
+
+img {
+    border:2px dashed black;
+}
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;  
+}
+
+.question {
+ margin:15px; 
+    border:2px solid black;
+    background-color:white;
+    padding:5px;
+ 
+}
+.question-two {
+    margin:15px;
+    border:2px solid black;
+    background-color:white;
+    padding:5px;
+}
+
+.button {
+  margin:15px;   
+}
+
+.message {
+  display: flex;
+  justify-content: center;  
+}
